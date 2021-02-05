@@ -1,4 +1,4 @@
-City,Latitude,Longitude,Max Temp (F),Humidity,Cloudiness,Wind Speed,Country,Date
+City,Latitude,Longitude,Max Temp (F),Humidity (%),Cloudiness (%),Wind Speed (mph),Country,Date
 jamestown,42.097,-79.2353,33.8,47,1,6.91,US,1612481333
 airai,-8.9266,125.4092,62.98,100,100,3.83,TL,1612481396
 verkh-chebula,56.0308,87.6218,5.22,94,98,8.61,RU,1612481484
