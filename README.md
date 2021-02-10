@@ -1,9 +1,9 @@
 # Python API
-
 ### Using two API, analyzed Weather data and based on that one generated Vacation destinations.
 
+
 ## WeatherPy
-### Created a `Python` script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this we used the [citypy library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api). Generated a csv file with the data obtained.
+#### Created a `python` script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this we used the [citypy library](https://pypi.python.org/pypi/citipy) and the [OpenWeatherMap API](https://openweathermap.org/api). Generated a csv file with the data obtained.
 
 ***Please add your API if you intend to use this script.***
 
