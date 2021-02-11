@@ -31,7 +31,7 @@ After separating the plots into Northern and Southern Hemisphere, I ran linear r
 
 ***Please add your API if you intend to use this script.***
 
-The following maps where generated with the dataset available:
+The following maps were generated with the dataset available:
 
 * Generated a Heat Map  that displayed the humidity for every city.
 * Used Google Places API to find the first hotel for each city located within 5000 meters of each coordinates.
