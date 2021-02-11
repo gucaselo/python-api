@@ -34,5 +34,5 @@ After separating the plots into Northern and Southern Hemisphere, I ran linear r
 The following maps were generated with the dataset available:
 
 * Generated a Heat Map  that displayed the humidity for every city.
-* Used Google Places API to find the first hotel for each city located within 5000 meters of each coordinates.
+* Used Google Places API to find the first hotel for 10 cities located within 5000 meters of each coordinates.
 * Plotted the hotels on top of the humidity heatmap and added a pin containing the Hotel Name, City and Country.
