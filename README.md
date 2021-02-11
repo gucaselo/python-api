@@ -15,7 +15,7 @@ The following scatter plots were generated with the data obtained:
 * Wind Speed (mph) vs. Latitude
 
 
-After separating the plots into Northern Hemisphere and Southern Hemisphere, I ran linear regression on the following relationships:
+After separating the plots into Northern and Southern Hemisphere, I ran linear regression on the following relationships:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude
