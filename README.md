@@ -1,5 +1,5 @@
 # Python API
-### Using two API, analyzed Weather data and based on that one generated Vacation destinations.
+### Using two API, analyzed Weather data and generated Vacation destinations.
 
 
 ## WeatherPy
